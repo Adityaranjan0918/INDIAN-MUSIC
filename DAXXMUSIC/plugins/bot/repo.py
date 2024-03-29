@@ -4,12 +4,13 @@ from DAXXMUSIC import app
 from config import BOT_USERNAME
 
 start_txt = """
-✦ ʜᴇʏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ᴜʜʜ !
+Phir tu repo lene agaya repo k jagah me tera rape kar duga chal bhag
 
-❅ ɪ ᴀᴍ ๛ɴ ʏ ᴋ ᴀ ᴀ ༗ ᴍ ᴜ s ɪ ᴄ
+sun jate jate mera group join karle @THE_IND_CODERS
 
-❅ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ๛ɴ ʏ ᴋ ᴀ ᴀ ༗ ʙᴏᴛ ʀᴇᴘᴏ, ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʀᴇᴘᴏ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.
-"""
+or channel bhi join karle na bhag na mat @THE_IND_CODER.
+
+chal ab ja bhag bdk. """
 
 
 
@@ -18,8 +19,8 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [
-          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/the_friendz"),
-          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/LOCO-PILOT/ROYMUSIC"),
+          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/the_ind_coders"),
+          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://t.me/itz_aditya_the_king"),
           ],
     ]
     
