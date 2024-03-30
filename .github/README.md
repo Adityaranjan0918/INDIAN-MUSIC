@@ -1,6 +1,6 @@
 [![INDIAN CODERS](https://github-stats-alpha.vercel.app/api?username=adityaranjan0918 "INDIAN CODERS")](https://github-stats-alpha.vercel.app/api?username=adityaranjan0918 "INDIAN CODERS")
 
- <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=🧋+INDIAN+MUSIC+BOT+🧋">
+ <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=🧋+─「 IT IS A POWERFULL TELEGRAM MUSIC BOT WITH SOME AWESOME FEATURES 」─+🧋">
 
 
 
